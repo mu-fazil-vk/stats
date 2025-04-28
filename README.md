@@ -3,11 +3,11 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/mu-fazil-vk">
+<img src="https://github.com/mu-fazil-vk/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/mu-fazil-vk/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/mu-fazil-vk/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/mu-fazil-vk/stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
@@ -140,16 +140,3 @@ If you are insistent on spending money to show your support, I encourage you to
 instead make a generous donation to one of the following organizations. By advocating
 for Internet freedoms, organizations like these help me to feel comfortable
 releasing work publicly on the Web.
-
-- [Electronic Frontier Foundation](https://supporters.eff.org/donate/)
-- [Signal Foundation](https://signal.org/donate/)
-- [Mozilla](https://donate.mozilla.org/en-US/)
-- [The Internet Archive](https://archive.org/donate/index.php)
-
-
-# Related Projects
-
-- Inspired by a desire to improve upon
-  [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
-  match the GitHub UI
